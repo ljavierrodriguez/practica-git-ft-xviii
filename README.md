@@ -41,3 +41,8 @@
 # Unir ramas (branch) usando merge
 
     $ git merge <branch>
+
+
+# Eliminar una rama(branch)
+
+    $ git branch -D <branch-name>
