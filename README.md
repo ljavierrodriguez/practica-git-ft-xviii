@@ -36,6 +36,8 @@
 
     $ git brach <branch-name>
 
+    $ git checkout -b <branch-name>
+
 # Unir ramas (branch) usando merge
 
     $ git merge <branch>
