@@ -20,7 +20,10 @@
 
     $ git add *
 
-
 # Guardar archivos (commit) en el repositorio
 
     $ git commit -m "Mensaje del Commit"
+
+# Extraer archivo (checkout) del repositorio o rama (branch)
+
+    $ git checkout <File>/<Branch>
