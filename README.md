@@ -36,3 +36,6 @@
 
     $ git brach <branch-name>
 
+# Unir ramas (branch) usando merge
+
+    $ git merge <branch>
