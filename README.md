@@ -31,3 +31,8 @@
 # Ver listado de cambios
 
     $ git log
+
+# Crear una nueva rama(branch)
+
+    $ git brach <branch-name>
+
