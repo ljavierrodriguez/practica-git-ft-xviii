@@ -72,3 +72,8 @@
 
     $ git pull <remote-name> <branch-name>
 
+# Clonar repositorio remoto
+
+    $ git clone <url-repositorio>
+
+    $ git clone -b <branch> <url-repositorio> 
