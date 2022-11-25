@@ -68,3 +68,7 @@
 
     $ git push <remote-name> <branch-name>
 
+# Update repositio local con los cambios del repositorio remoto
+
+    $ git pull <remote-name> <branch-name>
+
