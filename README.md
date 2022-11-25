@@ -19,3 +19,8 @@
     $ git add .
 
     $ git add *
+
+
+# Guardar archivos (commit) en el repositorio
+
+    $ git commit -m "Mensaje del Commit"
