@@ -46,3 +46,25 @@
 # Eliminar una rama(branch)
 
     $ git branch -D <branch-name>
+
+
+# Agregar repositorio remoto
+
+    $ git remote add <remote-name> <url-repositorio>
+
+# Ver informacion del repitorio remoto
+
+    $ git remote show <remote-name>
+
+# Eliminar repositorio remoto
+
+    $ git remote rm <remote-name>
+
+# Actualizar repositorio remoto 
+
+    $ git remote set-url <remote-name> <url-repositorio>
+
+# Subir cambios al repositorio remoto
+
+    $ git push <remote-name> <branch-name>
+
