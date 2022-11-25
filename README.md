@@ -27,3 +27,7 @@
 # Extraer archivo (checkout) del repositorio o rama (branch)
 
     $ git checkout <File>/<Branch>
+
+# Ver listado de cambios
+
+    $ git log
